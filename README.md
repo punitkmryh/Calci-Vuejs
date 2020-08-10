@@ -1,6 +1,8 @@
 # Calci-vuejs
 
-## Simple Vuejs Calculator
+## Vuejs Calculator
+
+![sample](https://github.com/punitkmryh/Calci-Vuejs/blob/master/src/assets/Screen%20Shot%202020-08-10%20at%204.25.03%20PM.png)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/490d8882-15c3-497f-be40-d9d1baa210e1/deploy-status)](https://app.netlify.com/sites/pedantic-beaver-5195c1/deploys)
 
